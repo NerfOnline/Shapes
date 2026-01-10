@@ -1,6 +1,6 @@
 addon.name    = 'Shapes';
 addon.author  = 'NerfOnline';
-addon.version = '0.1';
+addon.version = '1.0';
 addon.desc    = 'Marker tool for HorizonXI';
 
 require('common');
@@ -755,3 +755,4 @@ ashita.events.register('command', 'command_cb', function(e)
         return;
     end
 end);
+
