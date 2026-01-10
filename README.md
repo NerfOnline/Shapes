@@ -1,5 +1,6 @@
 # Shapes
 ### Final Fantasy XI...with raid markers!
+Currently this addon is ONLY client side. Meaning other players will not see your markers.
 
 <img width="910" height="711" alt="image" src="https://github.com/user-attachments/assets/7c1439a2-4c81-42a9-81e3-eb067b2bcd78" />
 
