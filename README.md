@@ -15,3 +15,6 @@ The following commands may be used.
 
 ### Acknowledgments
 Special thanks to Jyouya as without their Custom Target addon, this would not be possible. Also special thanks to Atom0s and Thorny. Many of their addons were used as examples to accomplish various parts of the code.
+
+### Disclaimer
+FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. FINAL FANTASY XI © 2002 - 2020 SQUARE ENIX CO., LTD. FINAL FANTASY XIV © 2010-2022 SQUARE ENIX CO., LTD. All Rights Reserved. I am not affiliated with SQUARE ENIX CO., LTD. in any way.
